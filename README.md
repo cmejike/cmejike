@@ -2,7 +2,7 @@
 
 I'm a PhD student in Epidemiology (minor in Biostatistics) at the University of Arizona. I trained in biotechnology before epidemiology, so I tend to ask how data were generated, from sample collection to the lab, before I interpret them.
 
-My dissertation looks at gastrointestinal outcomes of long COVID in the Arizona CoVHORT and CoVHORT-GI cohorts. I'm working on symptom and recovery trajectories, gut microbiome differences using shotgun metagenomics, and serum proteomics using SomaScan. I'm also the clinical research coordinator on CoVHORT-GI, so I've handled a lot of the samples I'll eventually analyze.
+My dissertation looks at gastrointestinal outcomes of long COVID in the Arizona CoVHORT and CoVHORT-GI cohorts. I'm working on symptom and recovery trajectories, gut microbiome differences using shotgun metagenomics, and serum proteomics using SomaScan. As the clinical research coordinator for CoVHORT-GI, I manage participant eligibility and study group assignment, and I coordinate the preparation, tracking, and shipment of biospecimens.
 
 Other work I'm involved in:
 
