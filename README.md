@@ -1,4 +1,4 @@
-# Chidera Ejike
+![Chidera Ejike, Clinical Research Coordinator, Arizona CoVHORT-GI study. PhD student in Epidemiology, University of Arizona. Minor in Biostatistics, Graduate Certificate in Data Science](banner.svg)
 
 I'm a PhD student in Epidemiology (minor in Biostatistics) at the University of Arizona. I trained in biotechnology before epidemiology, so I tend to ask how data were generated, from sample collection to the lab, before I interpret them.
 
