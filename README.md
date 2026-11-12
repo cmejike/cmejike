@@ -6,7 +6,7 @@ My dissertation looks at gastrointestinal outcomes of long COVID in the Arizona 
 
 Other work I'm involved in:
 
-- the link between long COVID and food insecurity (my first first-author paper, currently a preprint)
+- the relationship between long COVID and food insecurity (my first first-author paper, currently a preprint)
 - a photovoice study on greenspace and health in Southern Arizona
 - a Fred Hutch study at the Uganda Cancer Institute on delays in antibiotic treatment for neutropenic fever
 
