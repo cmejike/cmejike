@@ -5,6 +5,7 @@ I'm a PhD student in Epidemiology (minor in Biostatistics) at the University of 
 Other work I'm involved in:
 
 - the relationship between long COVID and food insecurity (my first first-author paper, currently a preprint)
+- the relationship between social support and resilience among Long COVID individuals within Arizona CoVHORT
 - a photovoice study on greenspace and health in Southern Arizona
 - a Fred Hutch study at the Uganda Cancer Institute on delays in antibiotic treatment for neutropenic fever
 
