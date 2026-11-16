@@ -1,8 +1,6 @@
 ![Chidera Ejike, Clinical Research Coordinator, Arizona CoVHORT-GI study. PhD student in Epidemiology, University of Arizona. Minor in Biostatistics, Graduate Certificate in Data Science](banner.svg)
 
-I'm a PhD student in Epidemiology (minor in Biostatistics) at the University of Arizona. I trained in biotechnology before epidemiology, so I tend to ask how data were generated, from sample collection to the lab, before I interpret them.
-
-My dissertation looks at gastrointestinal outcomes of long COVID in the Arizona CoVHORT and CoVHORT-GI cohorts. I'm working on symptom and recovery trajectories, gut microbiome differences using shotgun metagenomics, and serum proteomics using SomaScan. As the clinical research coordinator for CoVHORT-GI, I manage participant eligibility and study group assignment, and I coordinate the preparation, tracking, and shipment of biospecimens.
+I'm a PhD student in Epidemiology (minor in Biostatistics) at the University of Arizona. I trained in biotechnology before epidemiology, so I tend to ask how data were generated, from sample collection to the lab, before I interpret them. As the clinical research coordinator for CoVHORT-GI, I manage participant eligibility and study group assignment, and I coordinate the preparation, tracking, and shipment of biospecimens.
 
 Other work I'm involved in:
 
